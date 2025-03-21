@@ -4,3 +4,12 @@
 [submodule "submodules/linuxserver/docker-nextcloud"]
 	path = submodules/linuxserver/docker-nextcloud
 	url = https://github.com/homeserversample/docker-nextcloud.git
+[submodule "submodules/wshihadeh/docker-registry"]
+	path = submodules/wshihadeh/docker-registry
+	url = https://github.com/homeserversample/docker-registry.git
+[submodule "submodules/pi-hole/docker-pi-hole"]
+	path = submodules/pi-hole/docker-pi-hole
+	url = https://github.com/homeserversample/docker-pi-hole.git
+[submodule "submodules/homeserversample/docker-caddy"]
+	path = submodules/homeserversample/docker-caddy
+	url = https://github.com/homeserversample/docker-caddy.git
