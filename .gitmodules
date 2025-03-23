@@ -13,3 +13,6 @@
 [submodule "submodules/homeserversample/docker-caddy"]
 	path = submodules/homeserversample/docker-caddy
 	url = https://github.com/homeserversample/docker-caddy.git
+[submodule "submodules/almeidapaulopt/tsdproxy"]
+	path = submodules/almeidapaulopt/tsdproxy
+	url = https://github.com/homeserversample/tsdproxy.git
