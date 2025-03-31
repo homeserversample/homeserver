@@ -17,5 +17,5 @@
 	path = submodules/almeidapaulopt/tsdproxy
 	url = https://github.com/homeserversample/tsdproxy.git
 [submodule "immich-app/immich"]
-	path = immich-app/immich
+	path = submodules/immich-app/immich
 	url = https://github.com/homeserversample/immich.git
