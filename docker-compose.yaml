@@ -1,0 +1,5 @@
+include: 
+  - ./submodules/immich-app/immich/docker/docker-compose.yml
+  - ./submodules/linuxserver/docker-plex/docker-compose.yaml
+  - ./submodules/linuxserver/docker-nextcloud/docker-compose.yaml
+  - ./submodules/almeidapaulopt/tsdproxy/docker-compose.yaml

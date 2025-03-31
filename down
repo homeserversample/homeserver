@@ -1,8 +1,0 @@
-#! /bin/bash
-#
-
-while read F  ; do
-    sudo docker compose -f "$F" down
-done <$1
-
-
