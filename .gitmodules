@@ -19,3 +19,6 @@
 [submodule "submodules/immich-app/immich"]
 	path = submodules/immich-app/immich
 	url = https://github.com/homeserversample/immich.git
+[submodule "submodules/nextcloud/all-in-one"]
+	path = submodules/nextcloud/all-in-one
+	url = https://github.com/homeserversample/all-in-one.git
