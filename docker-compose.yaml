@@ -1,5 +1,28 @@
+# Notes:
+#
+# immich: set DB_PASSWORD in ./submodules/immich-app/immich/docker/.env
+#
+# tsdproxy : run once to create config file : 
+#            then create and set: autkKey: "key from tailscale" 
+#            get "reusable", "ephemeral" authKey from tailscale settings
+#
+#            enter in : ./submodules/almeidapaulopt/tsdproxy/config/tsdproxy.yaml
+#
+#     like this...
+#
+#        tailscale:
+#            providers:
+#                default:
+#                    authKey: "key from tailscale"
+#            
+# 
+
+
+#  - ./submodules/immich-app/immich/docker/docker-compose.yml
+#  - ./submodules/linuxserver/docker-nextcloud/docker-compose.yaml
+#  - ./submodules/linuxserver/docker-plex/docker-compose.yaml
+#  - ./submodules/almeidapaulopt/tsdproxy/docker-compose.yaml
+
 include: 
-  - ./submodules/immich-app/immich/docker/docker-compose.yml
-  - ./submodules/linuxserver/docker-plex/docker-compose.yaml
-  - ./submodules/linuxserver/docker-nextcloud/docker-compose.yaml
+  - ./submodules/nextcloud/all-in-one/compose.yaml
   - ./submodules/almeidapaulopt/tsdproxy/docker-compose.yaml
