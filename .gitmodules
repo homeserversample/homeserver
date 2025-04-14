@@ -31,3 +31,6 @@
 [submodule "submodules/linuxserver/docker-transmission"]
 	path = submodules/linuxserver/docker-transmission
 	url = https://github.com/homeserversample/docker-transmission.git
+[submodule "submodules/linuxserver/docker-jackett"]
+	path = submodules/linuxserver/docker-jackett
+	url = https://github.com/homeserversample/docker-jackett.git
