@@ -28,3 +28,6 @@
 [submodule "submodules/linuxserver/docker-sonarr"]
 	path = submodules/linuxserver/docker-sonarr
 	url = https://github.com/homeserversample/docker-sonarr.git
+[submodule "submodules/linuxserver/docker-transmission"]
+	path = submodules/linuxserver/docker-transmission
+	url = https://github.com/homeserversample/docker-transmission.git
