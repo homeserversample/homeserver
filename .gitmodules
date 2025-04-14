@@ -22,3 +22,6 @@
 [submodule "submodules/nextcloud/all-in-one"]
 	path = submodules/nextcloud/all-in-one
 	url = https://github.com/homeserversample/all-in-one.git
+[submodule "submodules/linuxserver/docker-libreoffice"]
+	path = submodules/linuxserver/docker-libreoffice
+	url = https://github.com/homeserversample/docker-libreoffice.git
