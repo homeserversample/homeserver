@@ -25,3 +25,6 @@
 [submodule "submodules/linuxserver/docker-libreoffice"]
 	path = submodules/linuxserver/docker-libreoffice
 	url = https://github.com/homeserversample/docker-libreoffice.git
+[submodule "submodules/linuxserver/docker-sonarr"]
+	path = submodules/linuxserver/docker-sonarr
+	url = https://github.com/homeserversample/docker-sonarr.git
