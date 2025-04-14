@@ -7,6 +7,7 @@ ENVFILE=/tmp/$(uuidgen)
 cat > $ENVFILE << DONE
 PUID=$(id -u)
 PGID=$(id -g)
+SERVERS=$(pwd)
 DONE
 
 sudo docker compose --env-file $ENVFILE $@
