@@ -1,36 +1,9 @@
 [submodule "submodules/linuxserver/docker-plex"]
 	path = submodules/linuxserver/docker-plex
 	url = https://github.com/homeserversample/docker-plex.git
-[submodule "submodules/linuxserver/docker-nextcloud"]
-	path = submodules/linuxserver/docker-nextcloud
-	url = https://github.com/homeserversample/docker-nextcloud.git
-[submodule "submodules/wshihadeh/docker-registry"]
-	path = submodules/wshihadeh/docker-registry
-	url = https://github.com/homeserversample/docker-registry.git
-[submodule "submodules/pi-hole/docker-pi-hole"]
-	path = submodules/pi-hole/docker-pi-hole
-	url = https://github.com/homeserversample/docker-pi-hole.git
-[submodule "submodules/homeserversample/docker-caddy"]
-	path = submodules/homeserversample/docker-caddy
-	url = https://github.com/homeserversample/docker-caddy.git
 [submodule "submodules/almeidapaulopt/tsdproxy"]
 	path = submodules/almeidapaulopt/tsdproxy
 	url = https://github.com/homeserversample/tsdproxy.git
 [submodule "submodules/immich-app/immich"]
 	path = submodules/immich-app/immich
 	url = https://github.com/homeserversample/immich.git
-[submodule "submodules/nextcloud/all-in-one"]
-	path = submodules/nextcloud/all-in-one
-	url = https://github.com/homeserversample/all-in-one.git
-[submodule "submodules/linuxserver/docker-libreoffice"]
-	path = submodules/linuxserver/docker-libreoffice
-	url = https://github.com/homeserversample/docker-libreoffice.git
-[submodule "submodules/linuxserver/docker-sonarr"]
-	path = submodules/linuxserver/docker-sonarr
-	url = https://github.com/homeserversample/docker-sonarr.git
-[submodule "submodules/linuxserver/docker-transmission"]
-	path = submodules/linuxserver/docker-transmission
-	url = https://github.com/homeserversample/docker-transmission.git
-[submodule "submodules/linuxserver/docker-prowlarr"]
-	path = submodules/linuxserver/docker-prowlarr
-	url = https://github.com/homeserversample/docker-prowlarr.git
