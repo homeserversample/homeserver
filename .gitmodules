@@ -7,3 +7,6 @@
 [submodule "submodules/immich-app/immich"]
 	path = submodules/immich-app/immich
 	url = https://github.com/homeserversample/immich.git
+[submodule "submodules/homeserversample/lyrionmusicserver"]
+	path = submodules/homeserversample/lyrionmusicserver
+	url = https://github.com/homeserversample/lyrionmusicserver.git
