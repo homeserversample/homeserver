@@ -18,11 +18,8 @@
 # 
 
 
-#  - ./submodules/immich-app/immich/docker/docker-compose.yml
-#  - ./submodules/linuxserver/docker-nextcloud/docker-compose.yaml
-#  - ./submodules/linuxserver/docker-plex/docker-compose.yaml
-#  - ./submodules/almeidapaulopt/tsdproxy/docker-compose.yaml
-
 include: 
-  - ./submodules/nextcloud/all-in-one/compose.yaml
+  - ./submodules/linuxserver/docker-plex/docker-compose.yaml
+  - ./submodules/immich-app/immich/docker/docker-compose.yml
   - ./submodules/almeidapaulopt/tsdproxy/docker-compose.yaml
+  - ./submodules/homeserversample/lyrionmusicserver/docker-compose.yaml
