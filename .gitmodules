@@ -10,3 +10,6 @@
 [submodule "submodules/homeserversample/lyrionmusicserver"]
 	path = submodules/homeserversample/lyrionmusicserver
 	url = https://github.com/homeserversample/lyrionmusicserver.git
+[submodule "submodules/media"]
+	path = submodules/media
+	url = git@github.com:homeserversample/media.git
