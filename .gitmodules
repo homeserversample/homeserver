@@ -13,3 +13,6 @@
 [submodule "submodules/media"]
 	path = submodules/media
 	url = git@github.com:homeserversample/media.git
+[submodule "submodules/Freika/dawarich"]
+	path = submodules/Freika/dawarich
+	url = https://github.com/homeserversample/dawarich.git
