@@ -23,3 +23,5 @@ include:
   - ./submodules/immich-app/immich/docker/docker-compose.yml
   - ./submodules/almeidapaulopt/tsdproxy/docker-compose.yaml
   - ./submodules/homeserversample/lyrionmusicserver/docker-compose.yaml
+  - ./submodules/media/docker-compose.yaml
+  - ./submodules/Freika/dawarich/docker/docker-compose.yml
