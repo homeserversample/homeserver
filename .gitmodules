@@ -16,3 +16,7 @@
 [submodule "submodules/Freika/dawarich"]
 	path = submodules/Freika/dawarich
 	url = https://github.com/homeserversample/dawarich.git
+[submodule "submodules/linkwarden/linkwarden"]
+	path = submodules/linkwarden/linkwarden
+	url = https://github.com/homeserversample/linkwarden.git
+	branch = main
