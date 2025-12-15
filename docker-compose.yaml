@@ -25,3 +25,4 @@ include:
   - ./submodules/homeserversample/lyrionmusicserver/docker-compose.yaml
   - ./submodules/media/docker-compose.yaml
   - ./submodules/Freika/dawarich/docker/docker-compose.yml
+  - ./submodules/linkwarden/linkwarden/docker-compose.yml
