@@ -1,0 +1,49 @@
+.                                                    gor          git@github.com:homeserversample/homeserver.git      
+.                                                    gor          git@github.com:homeserversample/homeserver.git      
+.                                                    origin       https://github.com/homeserversample/homeserver.git      
+.                                                    origin       https://github.com/homeserversample/homeserver.git      
+
+./submodules/Freika/dawarich                         base         https://github.com/Freika/dawarich.git      
+./submodules/Freika/dawarich                         base         https://github.com/Freika/dawarich.git      
+./submodules/Freika/dawarich                         gor          git@github.com:homeserversample/dawarich.git      
+./submodules/Freika/dawarich                         gor          git@github.com:homeserversample/dawarich.git      
+./submodules/Freika/dawarich                         origin       https://github.com/homeserversample/dawarich.git      
+./submodules/Freika/dawarich                         origin       https://github.com/homeserversample/dawarich.git      
+
+./submodules/media                                   origin       git@github.com:homeserversample/media.git      
+./submodules/media                                   origin       git@github.com:homeserversample/media.git      
+
+./submodules/almeidapaulopt/tsdproxy                 base         https://github.com/almeidapaulopt/tsdproxy.git      
+./submodules/almeidapaulopt/tsdproxy                 base         https://github.com/almeidapaulopt/tsdproxy.git      
+./submodules/almeidapaulopt/tsdproxy                 gor          git@github.com:homeserversample/tsdproxy.git      
+./submodules/almeidapaulopt/tsdproxy                 gor          git@github.com:homeserversample/tsdproxy.git      
+./submodules/almeidapaulopt/tsdproxy                 origin       https://github.com/homeserversample/tsdproxy.git      
+./submodules/almeidapaulopt/tsdproxy                 origin       https://github.com/homeserversample/tsdproxy.git      
+
+./submodules/linuxserver/docker-plex                 base         https://github.com/linuxserver/docker-plex.git      
+./submodules/linuxserver/docker-plex                 base         https://github.com/linuxserver/docker-plex.git      
+./submodules/linuxserver/docker-plex                 gor          git@github.com:homeserversample/docker-plex.git      
+./submodules/linuxserver/docker-plex                 gor          git@github.com:homeserversample/docker-plex.git      
+./submodules/linuxserver/docker-plex                 origin       https://github.com/homeserversample/docker-plex.git      
+./submodules/linuxserver/docker-plex                 origin       https://github.com/homeserversample/docker-plex.git      
+
+./submodules/immich-app/immich                       base         https://github.com/immich-app/immich.git      
+./submodules/immich-app/immich                       base         https://github.com/immich-app/immich.git      
+./submodules/immich-app/immich                       gor          git@github.com:homeserversample/immich.git      
+./submodules/immich-app/immich                       gor          git@github.com:homeserversample/immich.git      
+./submodules/immich-app/immich                       origin       https://github.com/homeserversample/immich.git      
+./submodules/immich-app/immich                       origin       https://github.com/homeserversample/immich.git      
+./submodules/immich-app/immich                       relascon     ssh://dave@relascon/mnt/wd/dave/bare/git/immich      
+./submodules/immich-app/immich                       relascon     ssh://dave@relascon/mnt/wd/dave/bare/git/immich      
+
+./submodules/linkwarden/linkwarden                   base         https://github.com/linkwarden/linkwarden.git      
+./submodules/linkwarden/linkwarden                   base         https://github.com/linkwarden/linkwarden.git      
+./submodules/linkwarden/linkwarden                   gor          git@github.com:homeserversample/linkwarden.git      
+./submodules/linkwarden/linkwarden                   gor          git@github.com:homeserversample/linkwarden.git      
+./submodules/linkwarden/linkwarden                   origin       https://github.com/homeserversample/linkwarden.git      
+./submodules/linkwarden/linkwarden                   origin       https://github.com/homeserversample/linkwarden.git      
+./submodules/linkwarden/linkwarden                   relascon     ssh://dave@relascon/mnt/wd/dave/bare/git/linkwarden      
+./submodules/linkwarden/linkwarden                   relascon     ssh://dave@relascon/mnt/wd/dave/bare/git/linkwarden      
+
+./submodules/homeserversample/lyrionmusicserver      origin       https://github.com/homeserversample/lyrionmusicserver.git      
+./submodules/homeserversample/lyrionmusicserver      origin       https://github.com/homeserversample/lyrionmusicserver.git      
